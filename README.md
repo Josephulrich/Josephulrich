@@ -92,6 +92,9 @@ while (1) {
     learn();
     build();
     break_things();   // then fix them
-    pet_cat();
+    fix();
+    debug();
+    retry();
+    continue;
 }
 ```
