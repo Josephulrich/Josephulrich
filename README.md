@@ -4,7 +4,7 @@
 ---
 
 ```console
-[    0.000] RCC: HSE 8 MHz, PLL locked @ 100 MHz
+[    0.000] RCC: GOD
 [    0.002] boot: joseph-ulrich v2026.10
 [    0.004] hw:   STM32 | EFR32 | ESP32 | FPGA
 [    0.006] os:   FreeRTOS ok | Zephyr loading [=======>   ] 70%
