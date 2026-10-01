@@ -52,7 +52,7 @@ Embedded, robotics, medtech. And a good chat about any of them._
 |---|---|---|
 | **Myoelectric hand prosthesis** | Final-year project: EMG acquisition and embedded signal processing driving tendon-actuated fingers. It didn't fully work, and it taught me more than the projects that did. | STM32, C, EMG front-end |
 | **STM32 validation lab** | Personal test automation platform for Arm Cortex-M validation. Caught a DMA glitch on circular ADC transfers and an MDF clock inconsistency. | HAL/LL, ST-Link, oscilloscope, logic analyzer, Python |
-| **AN5795 contribution** | That MDF clock finding became a correction to an official STMicroelectronics application note. | STM32 MDF, documentation |
+| **[AN5795 contribution](https://www.st.com/resource/en/application_note/an5795-how-to-use-multifunction-digital-filter-mdf-to-capture-sound-on-stm32-mcus-stmicroelectronics.pdf)** | That MDF clock finding became a correction to an official STMicroelectronics application note. | STM32 MDF, documentation |
 | **[ST Wiki: FIR Signal Processing](https://wiki.st.com/stm32mcu/wiki/Getting_started_with_FIR_Signal_Processing)** | Official ST tutorial I wrote: a real-time ADC → FIR → DAC pipeline on STM32C5, DMA double-buffering, CMSIS-DSP. | STM32C5, NUCLEO-C562RE, CMSIS-DSP |
 | **[ST Wiki: GPDMA and Linked-list](https://wiki.st.com/stm32mcu/wiki/Getting_started_with_GPDMA_and_Linked-list)** | Official ST tutorial I wrote: chaining autonomous DMA transfers through linked-list nodes, zero CPU involvement. | STM32H5, GPDMA, STM32CubeMX |
 | **30 jours de STM32** | Public LinkedIn series: one STM32 concept a day, explained from scratch. | Teaching, STM32 |
