@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Joseph 👋</h1>
-<p align="center"><b>Embedded systems & biomedical engineer, based in Paris.</b><br><i>I make silicon move things. Come on in, the terminal's warm.</i></p>
+<p align="center"><b>Embedded systems & mechatronics engineer, based in Paris.</b><br><i>I make silicon move things. Come on in, the terminal's warm.</i></p>
 
 ---
 
