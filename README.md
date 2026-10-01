@@ -9,8 +9,8 @@
 [    0.004] hw:   STM32 | EFR32 | ESP32 | FPGA
 [    0.006] os:   FreeRTOS ok | Zephyr loading [=======>   ] 70%
 [    0.009] edu:  Sup Galilée (embedded / biomedical) + ESPRIT (mechatronics)
-[    0.011] exp:  STMicroelectronics, Rousset
-[    0.013] exp:  Netatmo (C / Zephyr / Zigbee / EFR32)
+[    0.011] exp:  Prothesis arm PFE
+[    0.013] exp:  STMicroelectronics, Rousset
 [    0.015] doc:  fix merged into ST application note AN5795
 [    0.016] doc:  2 articles live on ST Wiki (FIR on STM32C5, GPDMA linked-list)
 [    0.017] WARN: nylon tendons creep under load. lesson written to flash.
@@ -19,7 +19,7 @@
   Welcome! Pull up a chair, make yourself at home.
 
 joseph@lab:~$ ls ~/life
-3d_printer/  cats/  series/  games/  football/
+3d_printer/  cats/  series/  games/  football/    /cooking
 
 joseph@lab:~$ cat ~/life/3d_printer/status
 Elegoo Neptune 4 on Klipper. Prints robot parts, enclosures,
@@ -30,15 +30,17 @@ Cats: the only coworkers allowed to walk on my keyboard.
 Got one? Send a picture, I mean it.
 
 joseph@lab:~$ cat ~/life/series/favorites
-series:  <SERIES_1>, <SERIES_2>
-actor:   <ACTOR>
-anime:   Death Note (team L, always)
+series:  SUIT, 24H Chrono
+actor:   Jack Bauer
+anime:   Fullmetal Alchemist, City Hunter, Death Note (team L, always)
 
 joseph@lab:~$ ./games --favorite
 <GAME>   // with FC26 and PUBG on rotation
 
 joseph@lab:~$ cat ~/life/football
 Real Madrid. Hala Madrid y nada más. ⚪
+
+joseph@lab:~$ cat ~/life/cooking
 
 joseph@lab:~$ echo $OPEN_TO
 Embedded, robotics, medtech. And a good chat about any of them._
