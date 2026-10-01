@@ -8,7 +8,7 @@
 [    0.002] boot: joseph-ulrich v2026.10
 [    0.004] hw:   STM32 | EFR32 | ESP32 | FPGA
 [    0.006] os:   FreeRTOS ok | Zephyr loading [=======>   ] 70%
-[    0.009] edu:  Sup Galilée (embedded / biomedical) + ESPRIT (mechatronics)
+[    0.009] edu:  Sorbonne Paris Nord (embedded / biomedical) + ESPRIT (mechatronics)
 [    0.011] exp:  Prothesis arm PFE
 [    0.013] exp:  STMicroelectronics, Rousset
 [    0.015] doc:  fix merged into ST application note AN5795
